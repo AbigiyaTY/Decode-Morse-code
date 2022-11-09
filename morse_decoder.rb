@@ -25,12 +25,12 @@ def char_decoder(string)
     '.--' => 'W',
     '-..-' => 'X',
     '-.--' => 'Y',
-    '--..' => 'Z',
+    '--..' => 'Z'
   }
   morse_dectionary[string]
 end
 
-puts (char_decoder('.-'))
+puts char_decoder('.-')
 
 
 def word_decoder(string)
@@ -43,10 +43,10 @@ def word_decoder(string)
     
 end
 
-puts(word_decoder('-- -.--'))
+puts word_decoder('-- -.--')
 
 def sentence_decoder(string)
   string.split('   ').map { |word| word_decoder(word) }.join(' ')
 end
 
-puts(sentence_decoder('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'))
+puts sentence_decoder('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
