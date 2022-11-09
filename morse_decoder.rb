@@ -32,21 +32,15 @@ end
 
 puts char_decoder('.-')
 
-
 def word_decoder(string)
-
-    split_letter = string.split
-     
-    str = ''
-    split_letter.each { |letter| str += char_decoder(letter) }
-    str
-    
+  split_letter = string.split
+  str = ''
+  split_letter.each { |letter| str += char_decoder(letter) }
+  str
 end
-
 puts word_decoder('-- -.--')
 
 def sentence_decoder(string)
   string.split('   ').map { |word| word_decoder(word) }.join(' ')
 end
-
 puts sentence_decoder('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
