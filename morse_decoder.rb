@@ -1,3 +1,4 @@
+# rubocop:disable BlockLength
 def char_decoder(string)
   morse_dectionary = {
     '.-' => 'A',
