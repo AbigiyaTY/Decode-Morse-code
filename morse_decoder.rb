@@ -30,6 +30,9 @@ def char_decoder(string)
   morse_dectionary[string]
 end
 
+puts (char_decoder(".-"))
+
+
 def word_decoder(string)
 
     split_letter = string.split
@@ -41,3 +44,9 @@ def word_decoder(string)
 end
 
 puts(word_decoder("-- -.--"))
+
+def sentence_decoder(string)
+  string.split("   ").map { |word| word_decoder(word) }.join(" ")
+end
+
+puts(sentence_decoder(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ..."))
