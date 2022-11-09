@@ -30,4 +30,14 @@ def char_decoder(string)
   morse_dectionary[string]
 end
 
-puts (char_decoder("--.."))
+def word_decoder(string)
+
+    split_letter = string.split
+     
+    str = ""
+    split_letter.each { |letter| str += char_decoder(letter) }
+    str
+    
+end
+
+puts(word_decoder("-- -.--"))
