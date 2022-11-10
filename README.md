@@ -1,103 +1,15 @@
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-For example: Delete the testing section if the currect project doesn't require testing
--->
-
-<div align="center">
-
-  <img src="mv-readme-logo.png" alt="logo" width="240"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
-
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Project name] <a name="about-project"></a>
+# 📖 [Decode a Morse code message] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[High level description]**
-
+- Run a program using the command line.
+- Use Ruby syntax for basic programming operations.
+- Use Ruby to solve basic coding challenges.
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack
+- Ruby
+- linters
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
-
-### Key Features
-
-> Describe between 1-3 key features of the application.
-
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-[Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -164,31 +76,27 @@ You can deploy this project using **[deployment service]**:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Farida Hamid**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/farida-hamid)
+- GitHub: [@Farida-Hamid](https://github.com/Farida-Hamid)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Sharon Kessio**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- GitHub: [@kessio](https://github.com/kessio)
+- Twitter: [@kessio_sharon](https://twitter.com/kessio_sharon)
+- LinkedIn: [kessio](https://linkedin.com/in/linkedin/sharon-kessio)
 
-<!-- FUTURE FEATURES -->
+👤 **Abigiya Tadesse**
 
-## 🔭 Future Features <a name="future-features"></a>
+* GitHub: [@githubhandle](https://github.com/AbigiyaTY)
+* Twitter: [@twitterhandle](https://twitter.com/AbigiyaTY)
+* LinkedIn: [@LinkedIn](https://www.linkedin.com/in/AbigiyaTY)
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] Todo 1
-- [ ] Todo 2
-- [ ] Todo 2
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 
@@ -208,29 +116,6 @@ Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- Question 1
-
-  - Answer 1
-
-- Question 2
-
-  - Answer 2
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
