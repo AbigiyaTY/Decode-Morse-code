@@ -1,4 +1,4 @@
-## Copyright 2021, [Farida Hamid, Sharon Kessio, Abigiya Tadesse]
+## Copyright 2022, [Farida Hamid, Sharon Kessio, Abigiya Tadesse]
 
 ###### Please delete this line and the next one
 ###### Decode a Morse code message can be a webpage/website, a web app, a software and so on
