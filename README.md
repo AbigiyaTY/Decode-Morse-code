@@ -1,4 +1,4 @@
-<!-- PROJECT DESCRIPTION -->
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # 📖 [Decode a Morse code message] <a name="about-project"></a>
 
